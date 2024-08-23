@@ -6,8 +6,6 @@ Data Scientist @ LAT 1223 | Certified Coach | AI for Business
 
 I design and implement data collection systems and quality control processes, streamlining data management for increased efficiency. I apply statistical analysis and modeling techniques to interpret data and derive actionable insights.
 
-* 🌍  I'm based in somewhere on planet earth. It's a wonderous place and I intend to experience as much of it as possible.
-
 * 🖥️  See my portfolio at [Github](http://github.com/NinoMundo)
 
 * ✉️  You can contact me at [nino@lat1223.com](mailto:nino@lat1223.com)
